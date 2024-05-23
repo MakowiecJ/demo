@@ -1,0 +1,237 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 8,
+      "minor": 0
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "YaK3xCT9fO2J+np8GethaAop1PCCIdTsQsZhoIcW01pfYoHwWAHaGYVpCgeMWpWTqnby2tnPI5T4Yt7ykr9yTLnW34Wd9xtztTOgpiQ1waC4tye01vWYZ9MCU/rODHnxKhhWbOYlp/+xOROHzXK2tu76xU6SB90pVJrqvAQOpNMgZb4Ygaael0AzsVRBNHJr3m8ldP9GjeHJ9n1BhJQdrTtZVEz+XK0n6S5DVfAIbV9V5OdUfOd6Rwm5bRvgT0sJbq93jnPMg2W6aZ1yXtKKB7mHewcUSe5jUVbkVN+kPUveWxGZeeCcnqupEONnGvn6jH8dOzTF5W/Fj/kozGNOQq5QowzTcCMZeG4DA/niDzZn9LbHY9UNKkIy8Jj9qstd2noyexC6cYYZ+51jTKIPbWK81+LgTUlD6RJmogz2MR9dpNCyLfhS5eIFKMlZ7+tEjOdIBoYKegctYtM3rdtiDJd2mwVxJT4dYh+UYITlraWmBWqNn7a953CSsY+Ovq/191X/cB/IZs+KOxv6+OIAyAPMHK68dSYciIIglMhyaCnH0DqHti8JVFfS0O35Ofqk13BXJf2RhtWi1I63ofTzjOwDLTshgqTRjmmHKeg9jOjJX2CoXxGl5tBGyLLoPj6vPkfgZpCGoCgHSSFZ46ejDKwC6o3JVpeCa6EUVs6rtlg="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "bCVmAnIcN0D+ARfgEcPRfY3PbA7ZaFDHuaoijHGAVLdw7/omxwCysrwGO1XhaeCVUg5QSXBmBOKgr6ctlA5yPhifYyM9KOUxPVI9wSdXYy/vsi1g2dGhpcyxLTOyN2U7oi3wq9WqoI6WeL8d90N6W05kU1K3UoLmL54oBfh7SnrIYAU+j4PUNGrUGWmZsOJ2Fa2X65o5uM/Ube3hmAvg4i+mNFfH0BOjp7ASHIU+7gJ2KL7xxpjB1xsObtA4aOpXBrlQv2xYb/nMRP7ClT1ddCJaE3DK3Vb4b1nUknkJcTzIQcHMooFZH16fg9E5EqiRf+8+0wcETW1+/6oZlciZw8X4Qu0J6rH+Iuldg768b6koZEpqTD64RmBkiVa//eG3l+TDG9w2AcP7sk5xxe1t1WHEdFcGAp8EOAhiGZjd8W4Ag9xpFt1RuSRJLxEGGke05UxW04/IizdkekCp1NY+jiIcqBkBmSroVNP8fe9oZfrWnVmZq1n0uDy6b401s3nCk2EE1t3andqGjcHAyzSniR0as9I1XzXQ+7fG906D/YqoUIb5FAwVo7BIBBjvO+ZTa9VFTiROCnqlU0V6NoFboBe4aJyCQEbf9DCjzrBdEzKa8LYEocOCtwHHon4hWZ2XAO6wBa4C09WeRyPvj23119SbwZ/hmwWwnqVoipydIhQ="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "fi45tH4sU0/sezA9w3zl1AUoNiVjctdqUDsVDtKQNSvuMtxGBg2C0T0CcRoC/WoR+NqmFArsxpWlxtpc9gJsBpVyNCW3t+octFeJNORMNOyvmq5ixzYnbCNEFMKxJZDGaw0bdlBV4BKNMiSukbeYKkiRdyPu6eo5b30XYxjvGGOmHVQLqsSUCArMMhM0EdeQ6AeTVdMEzQ/NMLcL8NkmTP4/34o6/fxprGZJuxwkKJ+W06h9ve4FXlxBzKTRkmp+Gcwdi8uzp6/3Vi4aOom6PLQ0Tds+byeE++f77rx03FGNErm7zwcltnqf7fCc2kJoM8CNmOzXCIpnC1nIleIzcdUmfziQ8uyq8aRFwlPBMeQyZJqPVexp1OH1WJaKNNynZZAk14GqXGDUc08YQvf+srD/9Ht/t3bhdrTMt7P+xHO2DPkLS4EC4AMHTbKd5JTNWxhpCwOIjsZ+Y/xYprz8V58hisJSGgaBg+cyAE62TOjl178+KCpjdLZHLGfW4pKwo9nALHEdmtrtGnDayz7ACTHAfBVw9fUScKWHtzofudlORegniHHdGhP+agwxsIh6FoJTWrl0AduOxq5I8crqi7TftObKYCoToj0pKgKk7mtvOmpiWhW6OhVMeFTdAcF4Hl6rxNokaY6g36JXbKkpPDSKWC7BHtWmfDUzI9+vJ+g="
+  },
+  {
+    "product": "pdfRender",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "g5dKZzkmJm/z5Ci56Vg1Zjje3sy9hdtbMkbKxa4vOvNsUPcUTeaNYmBZlHjCts2Y2LKHO38efPXwPR4uRZ+2RKk0QFtNYNMSv/a8PSjxAJIM8ZqM5KuUrLk84sn/0si50Z7n1FWanfjn5yHV3g3mTaivnwgRAhdwMEW+4HVxf+f4qfhc/M2wxxJj40+qJ/NUsWH+mMfbDNlElvYmeWTlRXLnI3NtvwU+iMZGh0cLDULEl9r8EwbWRfimWXbENUwsxwo2lKz8v4IgETeJvfZY41b+sZUmYSYntCJea/Z6V+j3P+i81b1gZRKVfooBsiZiRsE9RDEYcQ4rXRJbojaPqDRqDkNPc3LINwg9IE4dBDn2OuBFFAZjh5bvOJnSA3QkmZatshecNTeFiwEIPwLx5/c20obSLq08Ob5JHYji2ckcAhXHQRKnzUJ4rinS0KCXOGLlLX6Uv1EEmQXBvbdcBCx/ylOoArWfD/8c0i/TZAKYEK502eRI6Fe/v1RJb3n87ptHFXCpVNG6/rWvUVFmTWgN/5xa6DyOJuQe/jpT4fm8f/lUObCIfJe7YYiNOA4iaOK/zdxV5j6bkHO20+xg2qfb18g3oJJrFqpmCZ8tfwow9p21friqmBTlW600BrcAKJVbYlY4SqqlfCa+WcXUbmNNNpKhU3h9Dio1P8Vf/vw="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "IGuF1YLiYXJLttz4XJg8FTalOPRqoAMxFJJGRMhTgzmNc6CFF9tdpAv6ljg7kGsGDgvsgQd+IenBxekBtLJDB0TutUbGVbmrws8O6pRQys0vU20n8AP6P+LBKlHtkpJpEiz5WLxgJMXjjygexbrosg4wGnGalJiIDHKEAWZCQuNrD7X/Ox44yiVHkXPJYwFRQ/CcZDxjM/SdwOjq84R27WH95PJgrT3OzaGbBcLeESRqHVopSCKzCyQRgr9Lx+74GKotDDFPrWnm/czdJRuQT6nU17rdu3Zmxq8ghjAyr8ZHMZkrbUBtYxBbh6d6nXWLEZZx1+K02oDLUSfd6BwzINxYXW7UjzgqUXTzhOFBZKCkKYFJLMRISRTFmzzscUTjCiXLLxsX0muDsGWV4oChdJpjRvECHDCv02RhaeUiwugtTefetl3d6Ej7T/p81kwew5xFBO9aWOvpyOyW89ff10uHYFubeZRLwAqQHfJmBYgOCbwLp0Or3kOPFIRIHpWd9mEWMdTENL0aFO8Wipqgc5KOGzfW5Z2Xcw75hOzhMPjJZINWi7oUj2RUPmVJZdkXu0hZRYBc2SI2YLom+70l2p/rGtiMjiBx/WjwgxKd9AYO35KtjnwHXrc3/qMx+/iBfJ7LJQjSMSQzle5s9o7ZEM+e1jqx7THFmV9YrU8HqXE="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "JAImQ9K7Z5QzF/nc6csHUIjWZRMIQC67lVkQmM1e1PeEmT/IYdxbUlu8fdtyX7g6gxsQsVERZ1PbrZYUyxqLj4LpGYuWfyNcxcebpxIP7Nrf8OINSKRpjFSceaSsY6AUOimikgvMVZlVvPTMmL/w4qYEvPEfjaToeNTzs1c1c0ajZeNfTQ/MFComxFDck6P8e0xH575niYvUJXITzv0S5bnmMic+7MIbIPGxmXdcunzKQf2b6VY0y/CfX2NZjOmxsI+ghSZ6nxgOHGeO7shIceMVs0CBQpfEGNhnyplwr5qZ1kU/4pjuaTJyNM9MBgt1ESuDRONejS+/jKLNbS06TfkrlgaXen7OSXowNqJnt6NmtSYQTLF5ST19Uuheod1jZvfsjdS7M9z8BVpCLeja2pjFZWd5VpaF1Ti8jWaiWy0h++BPx9Hc+qV3FUjnPoL0Q/55lN6604csTmYHgzu7Q2i/g7oFaqgy8rOepr8o0cNsKMtbQDbpu0cZiyI2suNgFoQ14y53IO80GPu9aR5z/4NPlEVCAOFmW9aYXtYWX6nH2NiHovEQHHW7QUB+gkveTtodjyTCNu+srxtM3UHttRfc4ITZas+qbKxetXr2YDDoHAhoamlAfxK9nOSvZTDYa9ADEaZqLxuu26bdX9m2LXEEmSMqcP5yDdbC9FUYojA="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 5
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "f+Lerw/2h/Ae0V1WL6BiQx9pT0xZ5IQFIBCGsraHa2+aCfWSzQMsm67Fk+G98Sw/Hhgyo3eF9+0+qzQNfRfdTcGCbYSW9nNdKyTtzN/Cy3fvXkxTE3b4NSRi7yxbPmCjTTWME28r2CTZRmb9vJr0YnI9SlMUlUelgSlKMVNYGYdKur9uPODqu5SLSwIJmDeQaLGnhry1hefwdTOJkYKBqs+3Dw4Vmg9/s10MEWyGU6Mzmh2Sx8AUV2s+QJMC12V2K1V1JRtsbt9IsTp+d1jntou/7dVQTo61f9mwUwhbY/F9JCYlXohRivMd3G3dR/RVJT/N7QSubo7KxuifHrVHFxeSHs7XRMa8IXOSllezZtF8qxhe03K0+AOluy2B+JPKewhw43tLDpaNgnCSUh/YD99IxBdPY67ww79LnguLx7968Awsgb71Uf8thzBV7/8gpvzcAhBTGzzG4NS8j8UgGDKbicKNLzW/p+Uj2cZ+uF65AO7sGX2SCfkr2LlZ6uJbBZnqKCi/eram/4uT1QkpZh441BVIydZVPwl2gJlXxlYQKi0T0zSmX+ZzlQw2MOwsoyGpfqXntIR3jJbwtrhCma7KHW6Ty2QCeC/10SluMRFBT+vcTKXazQb6vzRH+laOrYnVNCLTWQ1rvGO6soNbiKkfmqj0B5xYm0R8vshjvKc="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "dtJUZlBAjWt/Y9PpVdv1QFsAgWanZVXlSm/cI92bF9dVjOujkcKLafQBYkFNXWNh5TAFL0oQ0FeuMn1BUlSh1BoNO27f0GYmIPw11reGlWUX/1DKU/CuNWz8+S4pg3b8y3+c1zkHtEyRnuuMBpdN20bR6qMqywQMmGwbDPB9eI9ougphU4hGNGa1rOgxl6atktASNcTWc6e2kSZ+UVVz/PKFbZm8Vf+Qe5oS0WcT3A5cYP9skyZ0wo711uCS4Peg1A5SFrr0xK3dmX10j0eTMElqAEEzJy+/rICXM3miQ03YOo3a7SXuIlC4IiRFdG66vOwPijm0+WqZ/PaJaf5ZO2kzo0iN8w4/Vzt0WdvGRftOKF7Z1k6G9EnJeVwPiPvurqENBgQY57CltCqCVQ5c2FEQwRJpFy3pVnxCgc+AO54Vdya6kmVWuZJyIZIPINbV50xqXDJpIioyymvzUMF6yrNcjJGQBuYCM9hNMQpsoyAQ8T8caUs13UNZJ1rn18zHBGe0x1/2a5Vq/PqbdGixR5p0hJyNV67QesHGeNICDuNtxIVhOrsa8Sny8j+k5SmDpV1BHx6HE3MPsr0pHWT5+DCpP5qaWJDH2HJEW9nNYlUJHnWNw7wAF9QdgaSFBiN+N+9iDMpOsQsLzcYlck56GZNPz8CqS4O/tVIFOLhoEGE="
+  },
+  {
+    "product": "pdfOffice",
+    "licensee": {
+      "company": "Comarch",
+      "name": "Jakub Makowiec",
+      "email": "jakub.makowiec@comarch.com"
+    },
+    "key": "abe8094460d7e7925023e6890ee3b467d304981594d5ba3f88f83bc4096e763a",
+    "creationDate": "2024-05-21",
+    "expirationDate": "2024-06-21",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "Gdyw02d1676v4sNTKGMWj1CJUhVWTR+hiE2IuTyF6hDFlSSKxk9CLLBinS/Tdjaogi00MzM7BVUXbp8SB43xAF4kz+PQieckeraS2wXEaW9awG7VoOXIL1vsRc8d2Eez7H95WuLtO4KEMCA5Ls8pA6RwHZpVn4gG3KIGA1J4P6xwkgKncdd8FgGDb47PK/PoGsygArSjbxg1DxPwM18pQKLe0SY9fVsE05PsVwJmskX1ebXUuj4UfYpNlx0BJnq9nfAN8gKeuA6XRIr4PFwWK07HtTfL8m3dUXsI0PsAmI6ni+m9t0ZZXgcbRjKFAXAmmNoZLQX7SbgBExs1fW79IB+vTxA8JQLzDSoZtdlhXmSHi94pPr/IeDRmpuRcVZ/AoopCHayjWv+H0iCQYvroRlxPIGK1MBl1xOLi6nOKaeeKtUVg3icDF5+vtybiR0c0XwsjkAlK/CYH0TIoZ6TtgTmWbqTg88t/pAACkmOgs4280EWqdxnJYTzHCrOlgthLQl7yIHA72PtYk5rWlAMhmfMI8nNg/dReWj+QxPz55OPzN2IGuc4y37axCMkyeM5wRNtB+y9tTWV+qv8Ls0IeVXfR0ZVc2+F588LgL7yAkJdRjIXjGPX6gjdIaC4RbQkqdf4XdFOCcz9d6gntA3UD6y0G8Gznfsw4JDtuCke4veI="
+  }
+]
